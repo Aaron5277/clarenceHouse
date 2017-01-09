@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss","_colors.scss"],"names":[],"mappings":"AAEA;EACC,WCHgB,EDIhB","file":"app.css","sourcesContent":["// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\n@import \"colors.scss\";\nh1{\n\tcolor: $aaronTest;\n}\n\n\n\n\n\n\n\n\n\n\n\n\n","$aaronTest :  red;"]}
