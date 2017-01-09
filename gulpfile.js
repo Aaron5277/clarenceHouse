@@ -18,6 +18,7 @@ elixir(function(mix) {
         '_colors.scss'
     ],'public/css/app.css');
 
+
     mix.scripts([
         'core/menuCheckbox.js',
     ],'public/js/app.js');
