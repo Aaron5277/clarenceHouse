@@ -1,7 +1,9 @@
 // @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 @import "colors.scss";
+@import "mixin.scss";
 h1{
-	color: $aaronTest;
+	color: $main_gold_1;
+	@include border-radius-ratio;
 }
 
 
